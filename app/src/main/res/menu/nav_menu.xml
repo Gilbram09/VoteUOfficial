@@ -7,6 +7,9 @@
     android:id="@+id/profileFragment"
     />
     <item
+         android:title="back"
+         android:id="@+id/back"/>
+    <item
         android:title="Candidates"
         android:id="@+id/postsFragment"/>
     <item
